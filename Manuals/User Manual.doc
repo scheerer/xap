@@ -1,0 +1,92 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f29\froman\fcharset238\fprq2 Times New Roman CE;}{\f30\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f32\froman\fcharset161\fprq2 Times New Roman Greek;}{\f33\froman\fcharset162\fprq2 Times New Roman Tur;}{\f34\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f35\froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\f36\froman\fcharset186\fprq2 Times New Roman Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;
+\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{\*\cs15 \additive footnote reference;}{
+\s16\ql \li1440\ri-90\nowidctlpar\tx1440\tx1530\tx1800\aspalpha\aspnum\faauto\adjustright\rin-90\lin1440\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 \sbasedon0 \snext16 Block Text;}}{\info{\title Description of the System\'92s Functions:}
+{\author Russell Scheerer}{\operator Russell Scheerer}{\creatim\yr2001\mo4\dy23\hr19\min12}{\revtim\yr2001\mo4\dy23\hr19\min12}{\version2}{\edmins0}{\nofpages3}{\nofwords384}{\nofchars2192}{\*\company Waterfield Mortgage}{\nofcharsws2691}{\vern8269}}
+\margl1440\margr1440 \widowctrl\ftnbj\aenddoc\aftnnar\notabind\wraptrsp\transmf\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\truncatefontheight\subfontbysize\sprsbsp\wpjst\lytprtmet\hyphcaps0\horzdoc\dghspace0\dgvspace0\dghorigin0\dgvorigin0
+\dghshow0\dgvshow0\jexpand\viewkind1\viewscale75\nolnhtadjtbl \fet0\sectd \linex0\headery1440\footery1440\sectdefaultcl {\header \pard\plain \qc \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\langnp1033\langfenp1033 {\b XAP User Manual}{
+\par 
+\par }\pard \qc \li0\ri0\sl-19\slmult0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\lang1024\langfe1024\cgrid\noproof 
+{\shp{\*\shpinst\shpleft1440\shptop0\shpright10800\shpbottom19\shpfhdr1\shpbxpage\shpbxignore\shpbypara\shpbyignore\shpwr3\shpwrk0\shpfblwtxt1\shpz0\shplockanchor\shplid1025{\sp{\sn shapeType}{\sv 1}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn fillColor}{\sv 0}}{\sp{\sn fillBackColor}{\sv 0}}{\sp{\sn fFilled}{\sv 1}}{\sp{\sn lineWidth}{\sv 0}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fShadow}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 1}}
+{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxpage\dobypara\dodhgt0\dprect\dpx1440\dpy0\dpxsize9360\dpysize19\dpfillfgcr0\dpfillfgcg0\dpfillfgcb0\dpfillbgcr0\dpfillbgcg0\dpfillbgcb0\dpfillpat1\dplinehollow}}}}{
+\par }\pard \ql \li0\ri0\sl-240\slmult0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1033\langfe1033\langnp1033\langfenp1033 {\b\fs28 Description of the System\rquote s Functions:}{
+\par }\pard \ql \li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {
+\par }\pard \ql \li720\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin720\itap0 {XAP System is designed to integrate XML (acronym for, Extensible Markup Language ) 
+\par and LDAP ( acronym for Lightweight Directory Access Protocol ) Technologies. XAP 
+\par integration occur by two major process. The first process (Export LDAP into XML) is 
+\par designed to let the end-user inquire (Select Query) the LDAP Directory and view the output in an XML Documents. While the second process of the System (Import XML into 
+\par LDAP) is a reversal of the first process in the sense of, the end-user creates an XML 
+\par Documents to Update (Update Query) the LDAP Directory.
+\par }\pard \ql \li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {
+\par 
+\par }\pard \ql \fi720\li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {\b\ul Export LDAP into XML, and Import XML into LDAP:}{\b \tab }{
+\par }\pard \ql \li1440\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin1440\itap0 {
+\par }\pard \ql \fi1440\li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {The end-user specifies the LDAP Directory want to use, as well as the BASE DN 
+\par (i.e. country, organization, Department, etc.). As well as, select the type of query 
+\par going to use either Export or Import.
+\par }\pard \ql \li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {
+\par }\pard \ql \fi720\li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {\ul Export LDAP into XML:}{
+\par 
+\par }\pard \ql \li1440\ri-90\nowidctlpar\tx1440\tx1530\tx1800\aspalpha\aspnum\faauto\adjustright\rin-90\lin1440\itap0 {The end-user query the LDAP Directory with his/her needs. XAP Produces two 
+\par files, (1) Document Type Definition ( DTD ) to define the XML Documents. (2) a 
+\par well-formed XML Document containing the results of the query. The end-user can 
+\par utilize both files to update his/her local data stores, or just view the files. The end-
+\par }\pard\plain \s16\ql \li1440\ri-90\nowidctlpar\tx1440\tx1530\tx1800\aspalpha\aspnum\faauto\adjustright\rin-90\lin1440\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 {user needs to be familiar with the address of the LDAP Directory  that is 
+to be used.
+\par }\pard\plain \ql \li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 {
+\par }\pard \ql \fi720\li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {\ul Import XML into LDAP:
+\par 
+\par }\pard \ql \fi1440\li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {The end-user creates a well-formed XML Documents containing the information 
+\par he/she wishes to update; Which follows the rules in the DTD Documents, derived 
+\par from the LDAP schema.
+\par }\pard \ql \li0\ri-90\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin-90\lin0\itap0 {
+\par \sect }\sectd \margrsxn1350\linex0\headery1440\footery1440\sectdefaultcl \pard\plain \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 {
+\par }{\b\fs28 Bringing Up The System:}{\fs28 \tab }{\ul 
+\par 
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {Either:
+\par \tab -Double-Click Xap.jar in the c:\\Xap\\ directory or
+\par 
+\par \tab -From the MS-DOS window type \'93java \endash jar c:\\Xap\\xap.jar\'94
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {  }{\ul 
+\par \sect }\sectd \margrsxn1350\linex0\headery1440\footery1440\sectdefaultcl \pard\plain \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\langnp1033\langfenp1033 {\ul 
+\par }{\b\fs28 Example Of How To Use The System
+\par }\pard \ql \li720\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {The whole system has been developed in one console, here is a scenario of how to use it.
+\par }\pard \ql \li720\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {First, the user specifies the LDAP Directory and the BASE DN in a text filed. For example,
+\par     LDAP Directory:
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 { \tab ldap://directory.unc.edu:389
+\par     BASE DN
+\par }\pard \ql \fi720\li720\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {ou=AIS, o=UNC-CH, c=US:
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {Afterward,  the user select the type of process need to perform, either Export or Import.
+\par 
+\par Export selection:
+\par }\pard \ql \li1440\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {
+\par The user write the query in a text field, for instance:
+\par }\pard \ql \fi720\li1440\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {sn = smith
+\par }\pard \ql \li1440\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {
+then press the Query.  The user has two choices between two views the default is XML. A text area would show the queried data in XML format right after the query button is pressed
+. If the user selects the DTD view, the test area switches to the DTD format.
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {Import Selection:
+\par 
+\par }\pard \ql \li1440\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {The user will select an XML file from disk to input into the LDAP directory.  After the XML file is chosen, the user will have to input their user-name and pa
+ssword into the appropriate fields.  They will then click the Update LDAP button.
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \fi1440\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {     
+\par 
+\par }\pard \ql \fi1440\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \fi720\li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par }\pard \ql \li0\ri0\nowidctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par    
+\par }}

@@ -1,0 +1,43 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f23\froman\fcharset128\fprq1{\*\panose 00000000000000000000}MS Mincho{\*\falt ?? ??};}{\f28\froman\fcharset128\fprq1{\*\panose 00000000000000000000}@MS Mincho;}
+{\f29\froman\fcharset238\fprq2 Times New Roman CE;}{\f30\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f32\froman\fcharset161\fprq2 Times New Roman Greek;}{\f33\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f34\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f35\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f36\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f37\fswiss\fcharset238\fprq2 Arial CE;}{\f38\fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f40\fswiss\fcharset161\fprq2 Arial Greek;}{\f41\fswiss\fcharset162\fprq2 Arial Tur;}{\f42\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f43\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f44\fswiss\fcharset186\fprq2 Arial Baltic;}
+{\f45\fmodern\fcharset238\fprq1 Courier New CE;}{\f46\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f48\fmodern\fcharset161\fprq1 Courier New Greek;}{\f49\fmodern\fcharset162\fprq1 Courier New Tur;}{\f50\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f51\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f52\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\*\cs10 \additive Default Paragraph Font;}{
+\s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 Title;}{\s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 Plain Text;}}{\info{\title Operations Manual}{\author Russell Scheerer}{\operator Russell Scheerer}{\creatim\yr2001\mo4\dy23\hr19\min11}{\revtim\yr2001\mo4\dy23\hr19\min11}
+{\version2}{\edmins0}{\nofpages1}{\nofwords130}{\nofchars742}{\*\company none}{\nofcharsws911}{\vern8269}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1800
+\dgvorigin1440\dghshow1\dgvshow1\jexpand\viewkind1\viewscale75\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule \fet0\sectd \linex0\endnhere\sectlinegrid360\sectdefaultcl 
+{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}\pard\plain \s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+Operations Manual
+\par }\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f1\fs32 
+\par }\pard\plain \s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f2\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 CD Installation:
+\par }{\fs24\loch\af1\hich\af1\dbch\af23 
+\par }\pard \s16\ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 
+Insert the CD into the CD-ROM drive.  The disk should autorun.  If not, go to Start - Run and type "d:\\install.bat"  (change d: to whatever your CD-ROM drive letter is).
+\par 
+\par \hich\af1\dbch\af23\loch\f1 The install program will install SUN Microsystem\hich\af1\dbch\af23\loch\f1 s' latest Java Runtime Environment so that XAP will work. You then will have the option to open XAP immediately or just exit the installer.
+\par }\pard \s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 
+\par }{\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 Floppy Installation:
+\par }{\fs24\loch\af1\hich\af1\dbch\af23 
+\par }\pard \s16\ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 Insert Disk #1 into the drive and go to Start - Run and type "a:\\install.bat" 
+\par 
+\par \hich\af1\dbch\af23\loch\f1 The installer\hich\af1\dbch\af23\loch\f1  will begin to copy files.  You will prompted to enter the remaining disks for the rest of the install. 
+\par 
+\par \hich\af1\dbch\af23\loch\f1 The install program will install SUN Microsystems' latest Java Runtime Environment so that XAP will work.
+\par }\pard \s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 
+\par }{\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 Starting XAP:
+\par }{\fs24\loch\af1\hich\af1\dbch\af23 
+\par }\pard \s16\ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 The executable is stored in \hich\af1\dbch\af23\loch\f1 the directory }{
+\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 c:\\Xap\\}{\fs24\loch\af1\hich\af1\dbch\af23 
+\par 
+\par \hich\af1\dbch\af23\loch\f1 You can either Double-Click }{\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 Xap.jar}{\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1  to open the program or type 
+\par }\pard \s16\ql \li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 "}{\b\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 java -jar c:\\Xap\\xap.jar}{
+\fs24\loch\af1\hich\af1\dbch\af23 \hich\af1\dbch\af23\loch\f1 ".
+\par }\pard\plain \ql \fi-720\li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+\par }}
